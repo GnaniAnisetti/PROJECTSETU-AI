@@ -1,9 +1,7 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import { AppProvider } from './context/AppContext';
-import { ProtectedRoute } from './components/ProtectedRoute';
-import { Login } from './pages/Login';
-import { MainWorkspace } from './pages/MainWorkspace';
+import { AppProvider } from "./AppContext";
+import { ProtectedRoute } from "./ProtectedRoute";
+import { Login } from "./Login";
+import { MainWorkspace } from "./MainWorkspace";
 
 export function App() {
   return (
