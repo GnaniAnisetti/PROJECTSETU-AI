@@ -1,0 +1,8 @@
+Date,Chainage_Start,Chainage_End,Activity,Executed_Qty,Unit,Planned_Qty,Stoppage_Hours,Weather_Condition,Status
+2026-09-11,34+500,35+200,Earth filling,700,meters,700,2.0,Heavy Rain (38mm),Completed
+2026-09-11,44+100,44+150,Pier cap reinforcement,45,MT,45,0.0,Clear,Completed
+2026-09-11,30+000,30+400,Roadway cut excavation,850,cum,900,0.5,Overcast,Completed
+2026-09-10,32+000,32+600,Subgrade preparation,600,meters,600,0.0,Sunny,Completed
+2026-09-10,30+000,31+000,Granular Sub-Base GSB,400,meters,650,3.0,Aggregate Shortage,Delayed
+2026-09-09,35+000,35+800,Compaction & Proof Rolling,800,meters,800,0.0,Clear,Completed
+2026-09-09,48+200,48+250,Box Culvert Construction,1,units,1,0.0,Clear,Completed
