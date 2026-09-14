@@ -1,8 +1,7 @@
-import { AppProvider } from "./AppContext";
-import { ProtectedRoute } from "./ProtectedRoute";
-import { Login } from "./Login";
-import { MainWorkspace } from "./MainWorkspace";
-
+import { AppProvider } from "./context/AppContext";
+import { ProtectedRoute } from "./components/ProtectedRoute";
+import { Login } from "./pages/Login";
+import { MainWorkspace } from "./pages/MainWorkspace";
 export function App() {
   return (
     <AppProvider>
