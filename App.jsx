@@ -2,7 +2,7 @@ import { AppProvider } from "./context/AppContext";
 import { ProtectedRoute } from "./components/ProtectedRoute";
 import { Login } from "./pages/Login";
 import { MainWorkspace } from "./pages/MainWorkspace";
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 export function App() {
   return (
     <AppProvider>
